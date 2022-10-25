@@ -1,1 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T23:56:35.128Z" agent="5.0 (Windows)" version="20.4.0" etag="c6zu-klyi9PYqe589DA_" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-25T00:23:08.719Z" agent="5.0 (Windows)" etag="soFqiVwHGqGG12Tqk47a" version="20.4.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2249" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-0" target="fkuL-reos0wc2JTZ_Lem-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-0" value="Midwestern State Athletics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-1" target="fkuL-reos0wc2JTZ_Lem-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-1" value="&lt;div&gt;Rogue-lite elements&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-2" target="fkuL-reos0wc2JTZ_Lem-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-2" target="fkuL-reos0wc2JTZ_Lem-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-2" value="&lt;div&gt;Runs = Seasons&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="554" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-4" target="fkuL-reos0wc2JTZ_Lem-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="580" />
+              <mxPoint x="800" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-4" value="Players persist for 4 seasons (years), freshman-senior" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="450" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-6" target="fkuL-reos0wc2JTZ_Lem-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-6" target="fkuL-reos0wc2JTZ_Lem-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-6" value="5th year seniors" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="757" y="625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-8" value="Expulsion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="917" y="625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-10" value="&lt;div&gt;Death&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="597" y="625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-12" value="other way players can leave early / stay longer..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737" y="555" width="133" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-13" target="fkuL-reos0wc2JTZ_Lem-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-13" target="fkuL-reos0wc2JTZ_Lem-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-13" value="12 games per season" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="554" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-15" value="&lt;div&gt;Final Game&lt;/div&gt;&lt;div&gt;Ultra Bowl&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="554" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-17" value="Must win all 12 games" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="330" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-19" target="fkuL-reos0wc2JTZ_Lem-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-19" value="You are the coach of a down-trodden Division 4 football team" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-21" target="fkuL-reos0wc2JTZ_Lem-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-21" target="fkuL-reos0wc2JTZ_Lem-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-21" target="fkuL-reos0wc2JTZ_Lem-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-21" value="Recruit players, control them within the games, and increase the funding for the athletic department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="50" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-23" target="fkuL-reos0wc2JTZ_Lem-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-23" value="Better performance = Higher budget" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="60" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-25" value="Score difference, time to mercy rule (100 points), -player injuries, -fines, etc. lead to better ratings (A-F)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="80" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-27" target="fkuL-reos0wc2JTZ_Lem-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-27" target="fkuL-reos0wc2JTZ_Lem-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-27" target="fkuL-reos0wc2JTZ_Lem-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-27" value="Offer scholarships to genetically modified high-schoolers" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="50" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-29" target="fkuL-reos0wc2JTZ_Lem-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-29" target="fkuL-reos0wc2JTZ_Lem-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-29" target="fkuL-reos0wc2JTZ_Lem-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-29" value="Give players PEDs" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-31" value="Fake drug tests" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="-110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-33" value="DUIs" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-35" value="Arrest/Expulsion" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="-110" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-37" value="Team fined for hiring trans-humans" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="10" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-39" target="fkuL-reos0wc2JTZ_Lem-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-39" target="fkuL-reos0wc2JTZ_Lem-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-39" value="Players can die" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-41" value="Tough QB at RSU? Accidentally concuss him during a game!" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="130" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-43" target="fkuL-reos0wc2JTZ_Lem-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-43" target="fkuL-reos0wc2JTZ_Lem-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-43" value="Players have randomized stats" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-45" value="&lt;ol&gt;&lt;li&gt;Speed&lt;/li&gt;&lt;li&gt;Height&lt;/li&gt;&lt;li&gt;Weight(mass)&lt;/li&gt;&lt;li&gt;Throwing accuracy&lt;/li&gt;&lt;li&gt;Strength&lt;/li&gt;&lt;li&gt;Endurance&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="310" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkuL-reos0wc2JTZ_Lem-47" target="fkuL-reos0wc2JTZ_Lem-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-47" value="Players wait on the sidelines at all times, loaded in at the start of game" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="500" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-49" value="Players persist for all teams" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="600" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fkuL-reos0wc2JTZ_Lem-52" value="How many seasons will it take you to win the Gooseberry Bowl?" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="-140" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
