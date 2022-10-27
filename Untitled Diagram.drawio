@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T18:56:03.986Z" agent="5.0 (Windows)" etag="OSkiKeipmcgk8Nqs74T1" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T01:03:15.700Z" agent="5.0 (Windows)" etag="d36z982gYvN1ajf_eh5H" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2089" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="1240" as="targetPoint" />
+            <mxPoint x="270" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-3" value="Defense and Offense move to starting pos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -226,7 +226,7 @@
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-15" target="LwD_ZqBrf5zIX4M86DuJ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-15" value="Cast a ray straight forward" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-15" value="Circlecast a ray" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-350" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-17" target="LwD_ZqBrf5zIX4M86DuJ-19">
@@ -265,8 +265,115 @@
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-26" value="No - target whoever is closest by distance." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-280" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-29" target="LwD_ZqBrf5zIX4M86DuJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LwD_ZqBrf5zIX4M86DuJ-29" value="Move towards my target, attempting to push them back" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-32" target="LwD_ZqBrf5zIX4M86DuJ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-32" value="Ball is passed" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="1510" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-34" value="Set my target to possesor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-35" target="LwD_ZqBrf5zIX4M86DuJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-35" target="LwD_ZqBrf5zIX4M86DuJ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-35" value="IF ball is NotPossesed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-38" value="Mindlessly run at ball" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="1635" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-40" target="LwD_ZqBrf5zIX4M86DuJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-40" value="&lt;div&gt;All players have a 2nd trigger only collider with a height equal to their jump force&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-41" value="if the ball enters that collider, they will jump to try and catch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-43" target="LwD_ZqBrf5zIX4M86DuJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-43" target="LwD_ZqBrf5zIX4M86DuJ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-43" target="LwD_ZqBrf5zIX4M86DuJ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-43" value="&lt;div&gt;IF ball is possessed&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-45" value="Run at enemy with ball" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1650" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-47" value="Run at enemy closest to teammate with the ball" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1350" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-50" target="LwD_ZqBrf5zIX4M86DuJ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-50" target="LwD_ZqBrf5zIX4M86DuJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-50" value="&lt;div&gt;if I have the ball&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-52" value="Run towards the endzone" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="1635" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-54" target="LwD_ZqBrf5zIX4M86DuJ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-54" value="if someone enters my dodge collider" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-56" value="Dash in a random direction" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="945" y="1645" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-58" value="&lt;div&gt;TeamComp Logic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-59" target="LwD_ZqBrf5zIX4M86DuJ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-59" target="LwD_ZqBrf5zIX4M86DuJ-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-59" value="&lt;div&gt;Players&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Scriptable objects with random value&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-61" value="&#xa;&lt;ol&gt;&lt;li&gt;Speed&lt;/li&gt;&lt;li&gt;Height&lt;/li&gt;&lt;li&gt;Weight(mass)&lt;/li&gt;&lt;li&gt;Throwing accuracy&lt;/li&gt;&lt;li&gt;Strength&lt;/li&gt;&lt;li&gt;Endurance&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-510" y="525" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-64" target="LwD_ZqBrf5zIX4M86DuJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-64" value="&lt;div&gt;Roster&lt;/div&gt;&lt;div&gt;List of scriptable objects&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-720" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LwD_ZqBrf5zIX4M86DuJ-65" target="LwD_ZqBrf5zIX4M86DuJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-65" value="Team" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-720" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-67" value="Two lists of scriptable objects, one for defense and other for offense" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwD_ZqBrf5zIX4M86DuJ-69" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-780" y="480" width="420" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
